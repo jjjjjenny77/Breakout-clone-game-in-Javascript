@@ -1,0 +1,33 @@
+#container {
+	position:absolute;
+	background-image: url("星星.jpg");
+	/*background-color: #5B5A5B ;*/
+}
+#tip{
+  width: 335px;
+  position:fixed;
+  top: 100px;
+  left: 850px;
+  border: 1px solid black;
+  text-indent: 0.1em;
+  padding: 10px;
+  border-radius: 20px;
+ }
+.Brick, .Stick, .Ball {
+	position:absolute;
+	border:solid 1.5px white;
+}
+.Brick{
+	border-radius:5px;
+}
+.Ball {
+	width:30px;
+	height:30px;
+	background-color: white;
+	border-radius: 100%;
+}
+.Stick{
+	width:150px;
+	height:30px;
+	background-color: #F9D4F2 ;
+}	

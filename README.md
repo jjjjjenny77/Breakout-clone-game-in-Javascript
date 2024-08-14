@@ -1,5 +1,5 @@
 # Breakout-clone-game-in-Javascript
-> This note record and share the homework of Javascript course about breakout clone game
+> This note record and share the homework of Javascript course in 【110下】 about breakout clone game
 ## How to run the code
 * Download all the files in the "code" folder
 * Put them in the same folder on your computer
